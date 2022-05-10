@@ -1,4 +1,5 @@
 ### Olá! Meu nome é Otávio 👋
+#### Atualmente estudando em Back-end mobile
 <br/>
 
 #### social midia
