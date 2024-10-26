@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmona-loading-dark.gif&f=1&nofb=1&ipt=b7b648f27b48e53c9d2df3278e8bb9dd442491d454bd3416baaa61504451c8cb&ipo=images"  />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:384/format:webp/0*MkMzjPIFpv6XjTRI.gif"  />
 
 ###
 
